@@ -1,0 +1,6 @@
+{
+  "name": "Skybound 2D World",
+  "description": "An atmospheric 2D floating world adventure of the Skybound Archipelago with platforms, chain roads, lanterns, and the Moon-Koi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
